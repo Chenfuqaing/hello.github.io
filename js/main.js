@@ -114,6 +114,10 @@
           type: 6,
           name: "地瓜",
           txt: "嗷嗷嗷，好的"
+        }, {
+          type: 2,
+          name: "土豆",
+          txt: "还有，请你看免费的烟花，嘻嘻嘻嘻嘻嘻嘻"
         }  ],
         sunset: 1e3,
         fireworkInterval: [60, 240],
@@ -130,12 +134,12 @@
           wait: void 0,
           color: void 0
         },
-        fireWords: "后来|土豆|终于明白|有些瓜|一旦错过|就不在",
+        fireWords: "后来|真的|终于|它真的|开花啦",
         skyColor: "hsla({hue}, 60%, {lightness}%, 0.2)",
         fireOpt: {
           wordInterval: 3e3
         },
-        titleWords: "地瓜|不负遇见|",
+        titleWords: "地瓜|看烟花啦|",
         titleOpt: {
           gap: 4,
           size: 70,
