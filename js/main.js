@@ -105,20 +105,28 @@
         }, {
           type: 6,
           name: "地瓜",
-          txt: "土豆土豆，我是地瓜，怎么啦"
+          txt: "土豆土豆，我是地瓜。"
         }, {
           type: 2,
           name: "土豆",
-          txt: "跟你说个事啊，明天降温啦，多穿点衣服"
+          txt: "今天是2021年12月2日"
         }, {
           type: 6,
           name: "地瓜",
-          txt: "嗷嗷嗷，好的"
+          txt: "然后呢"
         }, {
           type: 2,
           name: "土豆",
-          txt: "还有，请你看免费的烟花，嘻嘻嘻嘻嘻嘻嘻"
-        }  ],
+          txt: "2021 1202有没有很特殊啊"
+        }, {
+          type: 6,
+          name: "地瓜",
+          txt: "对哦，哈哈哈哈"
+        } , {
+          type: 2,
+          name: "土豆",
+          txt: "庆祝这个额特别的日子，土豆请你看烟花吧"
+        }    ],
         sunset: 1e3,
         fireworkInterval: [60, 240],
         fireworks: {
@@ -134,12 +142,12 @@
           wait: void 0,
           color: void 0
         },
-        fireWords: "后来|真的|终于|它真的|开花啦",
+        fireWords: "希望|疫情|早点结束|",
         skyColor: "hsla({hue}, 60%, {lightness}%, 0.2)",
         fireOpt: {
           wordInterval: 3e3
         },
-        titleWords: "地瓜|看烟花啦|",
+        titleWords: "2021|1202|天天开心|",
         titleOpt: {
           gap: 4,
           size: 70,
